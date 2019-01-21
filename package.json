@@ -13,6 +13,7 @@
     "url": "git+https://github.com/thiagoburgo/cordova-plugin-multidex-enable.git"
   },
   "keywords": [
+    "ecosystem:cordova",
     "cordova",
     "multidex",
     "cordova-android"
